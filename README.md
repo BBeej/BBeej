@@ -1,0 +1,5 @@
+- BBeej.
+- Learning Game Dev, Web Dev(Full Stack).
+- Leguages: Python, HTML, LUA(Learning).
+- 18 Years.
+- Argentina
